@@ -1,10 +1,9 @@
 
 
-- 👋 Hi, I'm @YasminGuiniver 
+- 👋 Hi I'm @YasminGuiniver
 - 👀 I'm interested in learning more about systems development.
-- 🌱 I'm learning object oriented, database, php language.
-- ✅ I know about office package (word, power point, exel) HTML CSS JavaScript Agile Methodologies MySQL
-
+- 🌱 I'm learning about OOP, database, web development, and mobile app development
+- ✅ I know office package (word, power point, exel), HTML, CSS, JavaScript, JAVA, Agile Methodologies, and MySQL
 
 
 <!---
