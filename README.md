@@ -3,8 +3,9 @@
 Olá! Eu sou a Yasmin Guiniver 
 
 - 👀 Tenho interesse em aprender mais sobre desenvolvimento de sistemas.
-- 🌱 No momento estou aprendendo sobre POO, banco de dados, desenvolvimento web e desenvolvimento de aplicativos mobile.
-- ✅ Tenho conhecimentos sobre pacote office (word, power point, exel), HTML, CSS, JAVA, Metodologias Ágeis e MySQL
+- 🌱 No momento estou aprendendo sobre programação Java, banco de dados, desenvolvimento web e desenvolvimento de aplicativos mobile.
+- ✅ Tenho conhecimentos basicos sobre pacote office (word, power point, exel), HTML, CSS, JAVA, Metodologias Ágeis e MySQL
+
 
 <div align="center">
   <a href="https://github.com/YasminGuiniver">
