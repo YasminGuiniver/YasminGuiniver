@@ -3,14 +3,14 @@
 Olá! Eu sou a Yasmin Guiniver 
 
 - 👀 Tenho interesse em aprender mais sobre desenvolvimento de sistemas.
-- 🌱 No momento estou aprendendo sobre programação Java, banco de dados, desenvolvimento web e desenvolvimento de aplicativos mobile.
-- ✅ Tenho conhecimentos basicos sobre pacote office (word, power point, exel), HTML, CSS, JAVA, Metodologias Ágeis e MySQL
+- 🌱 No momento estou aprendendo sobre programação Java, banco de dados, PHP, e React Native.
+- ✅ Tenho conhecimentos sobre HTML, CSS, JAVA, Metodologias Ágeis e SQL. Também tenho conhecimentos básicos sobre pacote office (word ,exel e power point) , e como desenvolver um aplicativo usando Android Studio.
 
 
 <div align="center">
   <a href="https://github.com/YasminGuiniver">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YasminGuiniver&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminGuiniver&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminGuiniver&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <br>
   <div>
