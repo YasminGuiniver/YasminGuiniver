@@ -1,11 +1,6 @@
 
 
-Olá! Eu sou a Yasmin Guiniver 
-
-- 👀 Tenho interesse em aprender mais sobre desenvolvimento de sistemas.
-- 🌱 No momento estou aprendendo sobre programação Java, banco de dados, PHP, e React Native.
-- ✅ Tenho conhecimentos sobre HTML, CSS, JAVA, Metodologias Ágeis e SQL. Também tenho conhecimentos básicos sobre pacote office (word ,exel e power point) , e como desenvolver um aplicativo usando Android Studio.
-
+Olá! Eu sou a Yasmin Guiniver 😊
 
 <div align="center">
   <a href="https://github.com/YasminGuiniver">
