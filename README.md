@@ -1,7 +1,7 @@
 
 
-Olá! Eu sou a Yasmin Guiniver 😊
-Cursando Técnico em Desenvolvimento de Sistemas 👩🏾‍💻
+Olá! Eu sou a Yasmin Guiniver 😊 <br>
+Cursando Técnico em Desenvolvimento de Sistemas 👩🏾‍💻 <br>
 17 anos 🌱
 
 <div align="center">
