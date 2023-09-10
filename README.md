@@ -6,7 +6,7 @@ Cursando Técnico em Desenvolvimento de Sistemas 👩🏾‍💻 <br>
 
 <div align="center">
   <a href="https://github.com/YasminGuiniver">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminGuiniver&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminGuiniver&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <br>
   <div>
