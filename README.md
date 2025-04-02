@@ -1,7 +1,7 @@
 
 
 Oii! Eu sou a Yasmin Guiniver 😊 <br>
-Técnica em Desenvolvimento de Sistemas e graduanda em ADS 👩🏾‍💻 <br>
+Estudante de TI em evolução desde 2021, já técnica em Desenvolvimento de Sistemas e agora granduanda em Análise e Desenvolvimento de Sistemas, também faço estágio em Arquitetura de Ti👩🏾‍💻 <br>
 <div>
   <a href = "https://www.linkedin.com/in/yasmin-guiniver-534738235"> <img src = 	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black>
 </div>
